@@ -1,0 +1,4 @@
+https://github.com/owid/covid-19-data
+https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#
+
